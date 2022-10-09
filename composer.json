@@ -1,10 +1,10 @@
 {
-  "name": "overtrue/laravel-package",
+  "name": "xiaoyou/oacms",
   "description": "Laravel package template",
   "license": "MIT",
   "authors": [
     {
-      "name": "overtrue",
+      "name": "uxx",
       "email": "anzhengchao@gmail.com"
     }
   ],
@@ -14,7 +14,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Overtrue\\LaravelPackage\\": "src"
+      "XiaoYou\\OaCms\\": "src"
     }
   },
   "autoload-dev": {
