@@ -1,10 +1,10 @@
 <?php
 
-namespace XiaoYou\OaCms;
+namespace uxxapp\OaCms;
 
 use Illuminate\Support\ServiceProvider;
 
-class PackageServiceProvider extends ServiceProvider
+class OaCmsServiceProvider extends ServiceProvider
 {
     /**
      * Perform post-registration booting of services.
