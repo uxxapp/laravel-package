@@ -1,6 +1,6 @@
 <?php
 
-namespace XiaoYou\OaCms;
+namespace uxxapp\OaCms;
 
 use Illuminate\Support\ServiceProvider;
 

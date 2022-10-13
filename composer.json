@@ -1,11 +1,11 @@
 {
-  "name": "xiaoyou/oacms",
+  "name": "uxxapp/oacms",
   "description": "Laravel package template",
   "license": "MIT",
   "authors": [
     {
       "name": "uxx",
-      "email": "anzhengchao@gmail.com"
+      "email": "53623075@qq.com"
     }
   ],
   "require": {
@@ -14,7 +14,7 @@
   },
   "autoload": {
     "psr-4": {
-      "XiaoYou\\OaCms\\": "src"
+      "uxxapp\\OaCms\\": "src"
     }
   },
   "autoload-dev": {
